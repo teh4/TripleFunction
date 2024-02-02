@@ -1,4 +1,4 @@
-# Triple Function✨ - 구구단, 계산기, 별찍기 MVC 구조로!
+# Triple Function✨ - 구구단ㆍ계산기ㆍ별찍기 MVC 구조로!
 
 ### 개발기간 
  - 2023.05.22
